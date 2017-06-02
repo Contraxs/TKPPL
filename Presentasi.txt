@@ -1,0 +1,17 @@
+Aplikasi Kesehatan 
+Medicaboo
+
+Fitur :
+menemukan info rs dan doctor 
+dokter apppointment  : membuat janji temu untuk berkonsultasi dngn doktr yg dibthkan 
+book inpatient room : menydiakan info kamar rawat inap , meliputi pemesan dan lain lain
+
+kelebihan dari sistem maupun app ini adalah 
+dapat menemukan rumah sakit terdekat 
+dapat memesan kamar dengn efisien dan cepat 
+dapat membuat janji dengn dokter dengn efisien dan cepat
+
+kelemahan :
+daerah yang di jangkau hanya masi tersedia di daerah pekan baru saja
+
+
