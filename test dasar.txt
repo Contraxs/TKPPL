@@ -1,0 +1,23 @@
+fitur smart home
+1. pencahayaan adalah sebuah bagian penting dalam bangunan pengguna dapat mengatur waktu menyalakan dan mematikan lampu,
+   sebagai contoh ketika waktu dirumah menunjukkan pukul 7 malam yang mana disaat itu mulai gelap maka smart home menampilkan beberapa pilihan. 
+   Jika pengguna menginginkan pengubahan pengaturan cahaya maka ada beberapa pilihan yang akan di terapkan,seperti pendeteksi gerak(Motion Detection)
+   yang mana akan melibatkan pengguna atau orang ketika melangkah dalam sebuah ruangan yang akan mengaktifkan pencahayaan.
+   Ini membutuhkan ruangan yang khusus dalam sebuah rumah. dengan mengaktifkan perintah suara pengguna dapat mengkaji apabila lampu dalam suatu ruangan berapa banyak yang hidup/tidak hanya dengan perintah suara.
+
+2.Keamanan 
+  dengan perkembangan smart home sekarang memungkinkan pengembang mengikut sertakan fitur keaamanan yang lebih cangih.pengguna dapat mengatur smarthome untuk menghidupkan atau mematikan alarm semudah kita mengubah keamanan smartphone dengan  password. Pengguna juga akan diberikan pilihan untuk mengubah aturan pendeteksian hal yang mencurigakan. Ini bekerja dengan pendektesian gerak dan cahaya dan kemudian sistem akan memperingatkan pemilik rumah jika ada seseorang yang masuk lewat jendela maupun pintu dengan paksa dengan menggunakan sensor elektronik yang terhubung ke sistem
+3. Temperatur
+Pengguna dapat mengatur hangat-dinginnya sebuah rumah, menggunakan dua hal yakni waktu dan fungsi dasar parameter. Pengguna dapat memilih untuk menghangatkan ruangan ketika suhu diluar ruangan sedang turun, karena adanya sensor suhu yang diletakkan diluar untuk mendeteksi berbagai kondisi suhu luar ruangan.
+4. Sumber Daya
+Penyedia daya(Catu Daya) bisa diatur melalui sistem pintar. Di sebuah rumah yang besar, banyak kita temukan catu daya yang berada dalam mode standby dengan kata lain kit dapat mematikan saluran listrik yang ada di catu daya dan sakelar dengan sistem Smart Home, yang memungkinkan kita untuk menghemat energi
+5. Hiburan
+Dengan Smart Home, kita mampu mengatur tv, musik, proyektor, home teather bahkan speaker dengan mengatur lagu atau hiburan lainnya sesuai dengan suasana hati kita, tepat sesaat kita melangkahkan kaki di depan pintu rumah. Smart Home akan memeberikan pilihan apa saja yang bisa membuat kita nyaman.
+6. Status Sistem
+Smart Home akan menampilkan secara berkala status sistem rumah pintar kita seperti kompor yang belum dimatikan, air yang belum dimatikan dlsbg
+7. Pendeteksi Kendaraan
+Smart Home akan mengenali kendaraan kita saat kita mulai dekat dari rumah, sehingga ketika kendaraan berada tepat didepan gerbang, sensor pendeteksi gerak akan mengenali kendaraaan kita dan membukakan gerbang dan pintu garasi kita secara otomatis
+8. Pengaturan Handphone
+Smart Home juga bisa di sinkronisasikan dengan smart phone kita, seperti jika ada seseorang(tamu) yang berada didepan rumah, maka notifikasi akan muncul ke depan layar telepon kita masing - masing.
+9. Fitur Alarm
+Mengaktifkan fitur alarm yang telah di atur sebelumnya, sehingga ketika hari mulai pagi/sudah tepat menunjukkan waktu yang telah diatur maka secara otomatis, tirai jendela akan terbuka dan alarm akan berbunyi.
